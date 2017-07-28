@@ -5,7 +5,5 @@ $(document).ready(function() {
   $("body").css("text-align","center");
   $(".center-block").css("padding-top",10);
   $("h1").css("font-size",63);
-  $("#box").css("background-color","white");
-
-
+ $('.center-block').width('80%');
 });
